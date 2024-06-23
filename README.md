@@ -19,9 +19,9 @@ characteristics. BFS is used for constraint-based searches where paths must meet
 minimum requirements for bandwidth, latency, or reliability.
 
 **Tools and Technologies**:
-Purpose                             Tools/Technologies
-Graph Representation                 Python dictionaries (for initial representation), Excel (for data storage)
-Data Analysis and Manipulation       pandas
-Search Algorithms Implementation     Python
-User Interface and Input Handling    Python (user input/output functions, cmd)
-IDE                                  Visual Studio Code
+
+**Graph Representation**                 Python dictionaries (for initial representation), Excel (for data storage),
+**Data Analysis and Manipulation**       pandas,
+**Search Algorithms Implementation**     Python,
+**User Interface and Input Handling**    Python (user input/output functions, cmd),
+**IDE**                                  Visual Studio Code
